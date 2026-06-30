@@ -1,0 +1,356 @@
+[
+  {
+    "sentence": "Apple launches new iPhone in California",
+    "token": [
+      "Apple",
+      "launches",
+      "new",
+      "iPhone",
+      "in",
+      "California"
+    ],
+    "tag": [
+      "S-ORG",
+      "O",
+      "O",
+      "O",
+      "O",
+      "S-LOC"
+    ]
+  },
+  {
+    "sentence": "Elon Musk founded SpaceX",
+    "token": [
+      "Elon",
+      "Musk",
+      "founded",
+      "SpaceX"
+    ],
+    "tag": [
+      "B-PER",
+      "E-PER",
+      "O",
+      "S-ORG"
+    ]
+  },
+  {
+    "sentence": "Google opens office in London",
+    "token": [
+      "Google",
+      "opens",
+      "office",
+      "in",
+      "London"
+    ],
+    "tag": [
+      "S-ORG",
+      "O",
+      "O",
+      "O",
+      "S-LOC"
+    ]
+  },
+  {
+    "sentence": "Microsoft hires engineers in Berlin",
+    "token": [
+      "Microsoft",
+      "hires",
+      "engineers",
+      "in",
+      "Berlin"
+    ],
+    "tag": [
+      "S-ORG",
+      "O",
+      "O",
+      "O",
+      "S-LOC"
+    ]
+  },
+  {
+    "sentence": "Paris is beautiful in summer",
+    "token": [
+      "Paris",
+      "is",
+      "beautiful",
+      "in",
+      "summer"
+    ],
+    "tag": [
+      "S-LOC",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "sentence": "Barack Obama visited Germany",
+    "token": [
+      "Barack",
+      "Obama",
+      "visited",
+      "Germany"
+    ],
+    "tag": [
+      "B-PER",
+      "E-PER",
+      "O",
+      "S-LOC"
+    ]
+  },
+  {
+    "sentence": "Tesla builds factories in Texas",
+    "token": [
+      "Tesla",
+      "builds",
+      "factories",
+      "in",
+      "Texas"
+    ],
+    "tag": [
+      "S-ORG",
+      "O",
+      "O",
+      "O",
+      "S-LOC"
+    ]
+  },
+  {
+    "sentence": "Amazon expands in Europe",
+    "token": [
+      "Amazon",
+      "expands",
+      "in",
+      "Europe"
+    ],
+    "tag": [
+      "S-ORG",
+      "O",
+      "O",
+      "S-LOC"
+    ]
+  },
+  {
+    "sentence": "Tim Cook speaks at Apple event",
+    "token": [
+      "Tim",
+      "Cook",
+      "speaks",
+      "at",
+      "Apple"
+    ],
+    "tag": [
+      "B-PER",
+      "E-PER",
+      "O",
+      "O",
+      "S-ORG"
+    ]
+  },
+  {
+    "sentence": "London hosts tech conference",
+    "token": [
+      "London",
+      "hosts",
+      "tech",
+      "conference"
+    ],
+    "tag": [
+      "S-LOC",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "sentence": "Facebook rebrands to Meta",
+    "token": [
+      "Facebook",
+      "rebrands",
+      "to",
+      "Meta"
+    ],
+    "tag": [
+      "S-ORG",
+      "O",
+      "O",
+      "S-ORG"
+    ]
+  },
+  {
+    "sentence": "Sundar Pichai leads Google",
+    "token": [
+      "Sundar",
+      "Pichai",
+      "leads",
+      "Google"
+    ],
+    "tag": [
+      "B-PER",
+      "E-PER",
+      "O",
+      "S-ORG"
+    ]
+  },
+  {
+    "sentence": "Berlin becomes startup hub",
+    "token": [
+      "Berlin",
+      "becomes",
+      "startup",
+      "hub"
+    ],
+    "tag": [
+      "S-LOC",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "sentence": "Netflix produces new series",
+    "token": [
+      "Netflix",
+      "produces",
+      "new",
+      "series"
+    ],
+    "tag": [
+      "S-ORG",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "sentence": "Mark Zuckerberg visits Paris",
+    "token": [
+      "Mark",
+      "Zuckerberg",
+      "visits",
+      "Paris"
+    ],
+    "tag": [
+      "B-PER",
+      "E-PER",
+      "O",
+      "S-LOC"
+    ]
+  },
+  {
+    "sentence": "Samsung releases new phone",
+    "token": [
+      "Samsung",
+      "releases",
+      "new",
+      "phone"
+    ],
+    "tag": [
+      "S-ORG",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "sentence": "India wins cricket match",
+    "token": [
+      "India",
+      "wins",
+      "cricket",
+      "match"
+    ],
+    "tag": [
+      "S-LOC",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "sentence": "Toyota expands factory in Japan",
+    "token": [
+      "Toyota",
+      "expands",
+      "factory",
+      "in",
+      "Japan"
+    ],
+    "tag": [
+      "S-ORG",
+      "O",
+      "O",
+      "O",
+      "S-LOC"
+    ]
+  },
+  {
+    "sentence": "Angela Merkel meets leaders in Brussels",
+    "token": [
+      "Angela",
+      "Merkel",
+      "meets",
+      "leaders",
+      "in",
+      "Brussels"
+    ],
+    "tag": [
+      "B-PER",
+      "E-PER",
+      "O",
+      "O",
+      "O",
+      "S-LOC"
+    ]
+  },
+  {
+    "sentence": "OpenAI releases new model",
+    "token": [
+      "OpenAI",
+      "releases",
+      "new",
+      "model"
+    ],
+    "tag": [
+      "S-ORG",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "sentence": "Toronto hosts sports event",
+    "token": [
+      "Toronto",
+      "hosts",
+      "sports",
+      "event"
+    ],
+    "tag": [
+      "S-LOC",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "sentence": "Bill Gates invests in health tech",
+    "token": [
+      "Bill",
+      "Gates",
+      "invests",
+      "in",
+      "health",
+      "tech"
+    ],
+    "tag": [
+      "B-PER",
+      "E-PER",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  }
+]
